@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides a course overview and information on reading
   assignments, overlap with other classes, policy for missed classes, and written
   assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
