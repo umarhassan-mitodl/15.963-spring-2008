@@ -45,7 +45,7 @@
     "content": "3b105e4d-f619-caa1-0568-7ff380df838a",
     "website": "15-963-advanced-strategy-spring-2008"
   },
-  "hide_download_original": null,
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments"
