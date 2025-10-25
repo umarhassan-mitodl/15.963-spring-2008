@@ -4,8 +4,6 @@ description: This section includes both discussion questions for cases and occas
   slide presentations from the lecture sessions of the course. For the cases in sessions
   17, 20, and 22, discussion questions are intentionally omitted so that the classroom
   discussions are not influenced.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

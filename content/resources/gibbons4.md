@@ -7,8 +7,6 @@ description: Lecture notes on formal versus relational contracts, taken from a d
 file: /courses/15-963-advanced-strategy-spring-2008/78b0690c5643dd77af45b20a608230b4_gibbons4.pdf
 file_size: 124212
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

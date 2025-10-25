@@ -5,8 +5,6 @@ description: Handout containing the instructor's reflections on relational contr
 file: /courses/15-963-advanced-strategy-spring-2008/278c3d657878fa52eb9bd62b86c33eea_rel_cons.pdf
 file_size: 159994
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

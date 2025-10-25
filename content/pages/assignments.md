@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on assignments for the course, including
   three two-page papers and a final paper. Also included comments from the instructor.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
